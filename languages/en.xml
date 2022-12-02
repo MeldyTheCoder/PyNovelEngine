@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <info>
+        <name>English</name>
+        <code>en</code>
+    </info>
+
+    <globals>
+        <exit_button>Exit</exit_button>
+        <back_button>Back</back_button>
+    </globals>
+
+    <menu>
+        <main_menu>
+            <play_button>Play</play_button>
+            <settings_button>Settings</settings_button>
+        </main_menu>
+
+        <episode_menu>
+            <selector_title>Episode: </selector_title>
+        </episode_menu>
+
+        <settings_menu>
+            <audio_button>Audio</audio_button>
+            <lang_button>Language</lang_button>
+        </settings_menu>
+
+        <audio_settings_menu>
+            <volume_music_selector>Music volume:</volume_music_selector>
+            <volume_sound_selector>Sounds volume:</volume_sound_selector>
+        </audio_settings_menu>
+        <language_settings_menu>
+            <dropselect_title>Language:</dropselect_title>
+        </language_settings_menu>
+
+    </menu>
+</root>
+
+

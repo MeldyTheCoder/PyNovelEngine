@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <info>
+        <name>Русский</name>
+        <code>ru</code>
+    </info>
+
+    <globals>
+        <exit_button>Выйти</exit_button>
+        <back_button>Назад</back_button>
+    </globals>
+
+    <menu>
+        <main_menu>
+            <play_button>Играть</play_button>
+            <settings_button>Настройки</settings_button>
+        </main_menu>
+
+        <episode_menu>
+            <selector_title>Эпизод: </selector_title>
+        </episode_menu>
+
+        <settings_menu>
+            <audio_button>Аудио</audio_button>
+            <lang_button>Язык</lang_button>
+        </settings_menu>
+
+        <audio_settings_menu>
+            <volume_music_selector>Громкость музыки:</volume_music_selector>
+            <volume_sound_selector>Громкость звуков:</volume_sound_selector>
+        </audio_settings_menu>
+        <language_settings_menu>
+            <dropselect_title>Язык:</dropselect_title>
+        </language_settings_menu>
+
+    </menu>
+</root>
+
+
